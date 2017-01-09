@@ -2,5 +2,6 @@
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" Runat="Server">
       <h1><%: Title %>.</h1>
+    <p>Hello World</p>
 </asp:Content>
 
